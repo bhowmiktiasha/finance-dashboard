@@ -13,6 +13,14 @@ pnpm dev
 # or
 bun dev
 ```
+Personal Finance Dashboard
+Key Features:
+Track income, expenses, and savings
+Visualize data with charts (e.g., using Chart.js or D3.js)
+Include user authentication (NextAuth) and real-time data updates
+Next.js Benefits:
+API routes to handle financial data storage and retrieval
+Static generation or server-side rendering for fast page loads
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
