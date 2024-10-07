@@ -13,6 +13,9 @@ pnpm dev
 # or
 bun dev
 ```
+<img width="1366" alt="Screenshot 2024-10-07 at 6 27 13 PM" src="https://github.com/user-attachments/assets/59951d2a-2155-47c7-a64c-1fac26b0595c">
+
+
 Personal Finance Dashboard
 Key Features:
 Track income, expenses, and savings
